@@ -9,8 +9,8 @@ I build full-stack web applications with **React/Next.js, TypeScript, Node.js/Ex
 **Frontend:** React.js • Next.js 15+ • TypeScript • Tailwind CSS • Shadcn/UI  
 **Backend:** Node.js • Express.js • Java Spring Boot • REST APIs  
 **Database:** MySQL 8 • SQL (learning PostgreSQL & MongoDB)  
-**Tools:** Git/GitHub • Postman • VS Code • Vercel • Render  
-**AI-Assisted Development:** Claude, ChatGPT, Gemini, Cursor
+**Tools:** Git/GitHub • Postman • VS Code • Vercel 
+**AI-Assisted Development:** Claude, ChatGPT, Gemini
 
 ---
 
